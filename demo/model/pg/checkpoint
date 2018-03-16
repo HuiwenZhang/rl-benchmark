@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/huiwen/py-space/rl-bench/demo/model/pg/policy_File_199.dqn.ckpt"
+all_model_checkpoint_paths: "/home/huiwen/py-space/rl-bench/demo/model/pg/policy_File_199.dqn.ckpt"
