@@ -2,9 +2,9 @@
 simple and compact implementations of reinforcement learning benchmark algorithms
 
 ## Contents
-- agents
-- buffer
-- demo
+- agents: RL algorithms
+- buffer: impliment typical memeory strucures for off policy learning, such as DQN with replay
+- demo: demonstrations using implimented algorithms
 
 ## test and task
 You can validate all the algorithms by runing the scripts in 'demo' folder. To make our implementations simple, concise and clear,
